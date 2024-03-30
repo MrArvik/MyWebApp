@@ -1,5 +1,3 @@
-// index.js
-
 document.addEventListener("DOMContentLoaded", function () {
     const passwordField = document.getElementById("password");
     const showPasswordCheckbox = document.getElementById("showPassword");
